@@ -3,4 +3,14 @@
     width:100%;
     background-image:url(message-background.jpeg);
     background-size:cover;
+    text-align:center;
 }
+
+.top h1{
+    font-size:50px;
+    color: #e6e6fa;
+}
+
+.top p{
+   color:#778899;
+}    
