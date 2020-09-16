@@ -1,4 +1,4 @@
-.top{
+body{
     height:500px;
     width:100%;
     background-image:url(message-background.jpeg);
@@ -13,7 +13,7 @@
 
 .messages h1,h2{
     font-size:50px;
-    color:#ffb6c1;
+    color:#ff69b4;
 }
 
 .messages p{
