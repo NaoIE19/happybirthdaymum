@@ -6,17 +6,17 @@
     opacity:0.7;
 }
 
-.top{
+.messages{
     padding-top:100px;
     text-align:center;
 }
 
-.top h1,h2{
+.messages h1,h2{
     font-size:50px;
     color:#ffb6c1;
 }
 
-.top p{
+.messages p{
    color:#778899;
    font-size:25px; 
 }    
