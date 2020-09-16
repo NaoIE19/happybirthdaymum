@@ -1,14 +1,17 @@
-.top{
+body{
     height:500px;
     width:100%;
     background-image:url(message-background.jpeg);
     background-size:cover;
+}
+
+.top{
     text-align:center;
 }
 
-.top h1{
+.top h1,h2{
     font-size:50px;
-    color: #e6e6fa;
+    color:#e6e6fa;
 }
 
 .top p{
