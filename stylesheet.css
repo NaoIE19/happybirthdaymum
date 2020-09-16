@@ -3,6 +3,7 @@ body{
     width:100%;
     background-image:url(message-background.jpeg);
     background-size:cover;
+    opacity:0.7;
 }
 
 .top{
