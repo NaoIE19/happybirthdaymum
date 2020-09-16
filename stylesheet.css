@@ -11,9 +11,10 @@ body{
 
 .top h1,h2{
     font-size:50px;
-    color:#e6e6fa;
+    color:#ffb6c1;
 }
 
 .top p{
    color:#778899;
+   font-size:25px; 
 }    
